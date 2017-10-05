@@ -2,4 +2,5 @@
 void main()
 {
 printf("SATYAM\n");
-
+printf("kyaa baat haii bhaijan\n");
+}
